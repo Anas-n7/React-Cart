@@ -12,7 +12,7 @@ function App() {
   if (loading) {
     return (
       <div className="loading">
-        <h1>Loading...</h1>
+        <h1>Loadingss...</h1>
       </div>
     );
   }
